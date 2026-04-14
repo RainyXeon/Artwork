@@ -1,11 +1,13 @@
 # Artwork
-This is all of my artwork and it will be pushed to dmca to protect, all rights reversed to RainyXeon
 
-# DMCA Link / Status
+This is all of my artwork and it will be licensed under CC BY-NC-ND 4.0 to protect.
 
-- DeepinRain: https://www.dmca.com/Protection/Status.aspx?ID=5467c424-89a9-47ba-8333-191051f752f5&refurl=https://github.com/RainyXeon/Artwork/raw/main/deepinrain.jpeg
-- LunaticSea: https://www.dmca.com/Protection/Status.aspx?ID=5467c424-89a9-47ba-8333-191051f752f5&refurl=https://github.com/RainyXeon/Artwork/raw/main/lunaticsea.png
-- LunaStream: https://www.dmca.com/Protection/Status.aspx?ID=5467c424-89a9-47ba-8333-191051f752f5&refurl=https://github.com/RainyXeon/Artwork/raw/main/lunastream.png
-- RainyXeon: https://www.dmca.com/Protection/Status.aspx?ID=5467c424-89a9-47ba-8333-191051f752f5&refurl=https://github.com/RainyXeon/Artwork/raw/main/rainyxeon.png
-- New DeepinRain: https://www.dmca.com/Protection/Status.aspx?ID=5467c424-89a9-47ba-8333-191051f752f5&refurl=https://github.com/RainyXeon/Artwork/raw/main/deepinrain_rainyland.png
-- Modified RainyLand: https://www.dmca.com/Protection/Status.aspx?ID=b230399b-c4ed-472d-bded-4d113e8ccb67&refurl=https://github.com/RainyXeon/Artwork/raw/main/RainyLand.png
+## Copyright Notice
+
+Copyright (c) 2026 RainyXeon
+
+All media content located in the `/vector` and `/image` folder (include file from sub folder) is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
+You are permitted to share and redistribute this material in any medium or format, provided that appropriate credit is given to the original source.
+Commercial use, modification, adaptation, or creation of derivative works based on this material is strictly prohibited.
+
+To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-nd/4.0>
